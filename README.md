@@ -3,7 +3,7 @@
 
 ## Mais qu'est-ce que Valorant ?
 
-**Valorant** est un jeu de type **“tactical hero shooter”** qui est le premier de son genre mélangeant ainsi les **“hero shooters”** comme le célèbre jeu **Overwatch** et les **“tactical fps/shooter”** comme **counter-strike**, il s’inspire aussi de ces derniers en terme de **gameplay** et de ces **mécaniques** qui sont similaires. 
+**Valorant** est un jeu de type **“tactical hero shooter”** qui est le premier de son genre mélangeant ainsi les **“hero shooters”** comme le célèbre jeu [**Overwatch**](https://store.steampowered.com/app/2357570/Overwatch_2/) et les **“tactical fps/shooter”** comme [**counter-strike**](https://store.steampowered.com/app/10/CounterStrike/), il s’inspire aussi de ces derniers en terme de **gameplay** et de ces **mécaniques** qui sont similaires. 
 
 ## Quel est le but du jeu ?
 Valorant se joue en 5 contre 5 sur une partie où la première équipe qui marque 13 manches gagne.
