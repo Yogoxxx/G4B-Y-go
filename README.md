@@ -19,3 +19,16 @@ Pour gagner une manche du côté des **attaquants**, ces derniers doivent plante
 ### Communauté :
 La communauté de Valorant se démarque par sa ~~Toxicité~~ gentillesse envers les autre joueurs, notamment par le biais du chat vocal.
 Si vous commencez Valorant et que c'est votre premier FPS, je vous conseille de jouer directement des parties classées pour perdre ~~votre santé mentale~~ vos mauvaises habitudes et ainsi de s'améliorer !
+
+## Popularité
+Voici les statistiques du nombre de joueurs connectés chaque mois
+| **Jeu**   | **Joueurs**   | 
+|-----------|---------------| 
+| Valorant  |  15 252 011   | 
+| CSGO      |  32 011 445   | 
+| Fortnite  | 364 501 169   | 
+| Overwatch |   7 201 455   |
+
+
+
+source : [ici](https://kumundra.com/combien-de-joueurs-actifs-compte-valorant/)
