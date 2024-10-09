@@ -15,3 +15,7 @@ Chaque **joueur** incarne un **personnage** avec un **rôle** et des **capacité
 À chaque début de manche, les **joueurs** reçoivent des **crédits** leur permettant d’acheter de l'**équipement** : des **armes**, du **bouclier** et les **capacités** de leur **personnage**.
 
 Pour gagner une manche du côté des **attaquants**, ces derniers doivent planter une **bombe** appelé **“spike”** dans le temps imparti sur l’un des **“sites bomb”** qui sont des zones définies sur chaque carte du jeu, et du côté des **défenseurs** il faut désamorcer la **bombe** pour gagner le round, à noter que la manche peut être gagnée si une des équipes **élimine entièrement** l’autre.
+
+### Communauté :
+La communauté de Valorant se démarque par sa ~~Toxicité~~ gentillesse envers les autre joueurs, notamment par le biais du chat vocal.
+Si vous commencez Valorant et que c'est votre premier FPS, je vous conseille de jouer directement des parties classées pour perdre ~~votre santé mentale~~ vos mauvaises habitudes et ainsi de s'améliorer !
