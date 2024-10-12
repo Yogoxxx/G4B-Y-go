@@ -31,6 +31,7 @@ Voici les statistiques du nombre de joueurs connectés chaque mois
 
 ### Agents 
 Comme nous l'avons vu **precedemment**, Chaque **joueur** incarne un **personnage**(Agent) avec un **rôle** et des **capacités** spécifiques, voici donc une **liste** de tous les **agents** a ce jour, avec leur **rôles** :
-
+Il y a 4 rôles d'Agents dans valorant : 
+#### 1- Les Duelistes
 
 source : [ici](https://kumundra.com/combien-de-joueurs-actifs-compte-valorant/ "Source des statitiques")
