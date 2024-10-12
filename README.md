@@ -34,13 +34,37 @@ Comme nous l'avons vu **precedemment**, Chaque **joueur** incarne un **personnag
 Il y a 4 rôles d'Agents dans valorant : 
 #### 1- Les Duelistes
 Il existe 7 différents duelistes sur valorant :
- * Jett
- * Iso
- * Phoenix
- * Reyna
- * Neon
- * Raze
- * Yoru
+ 1. Jett
+
+<img src="https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png/revision/latest/smart/width/250/height/250?cb=20230523180834" height="50" /> 
+    
+ 2. Iso
+
+<img src="https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png/revision/latest/smart/width/250/height/250?cb=20230523180834" height="50" /> 
+    
+ 3. Phoenix
+
+<img src="https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png/revision/latest/smart/width/250/height/250?cb=20230523180834" height="50" /> 
+  
+ 4. Reyna
+
+<img src="https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png/revision/latest/smart/width/250/height/250?cb=20230523180834" height="50" /> 
+  
+ 5. Neon
+
+<img src="https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png/revision/latest/smart/width/250/height/250?cb=20230523180834" height="50" /> 
+
+ 6. Raze
+
+    <img src="https://static.wikia.nocookie.net/valorant/images/9/9c/Raze_icon.png/revision/latest/smart/width/250/height/250?cb=20230523180834" height="50" /> 
+
+ 7. Yoru
+
+    <img src="https://preview.redd.it/v7ce9f0xa5e81.png?width=256&format=png&auto=webp&s=3813219733b0ea278c0ef85f3588face949ef70b" height="50" /> 
+
+
+
+
 #### 2- Les initiateurs
 Il existe 6 différents Initiateurs sur Valorant :
  * Breach
