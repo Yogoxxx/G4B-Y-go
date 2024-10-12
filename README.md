@@ -29,6 +29,7 @@ Voici les statistiques du nombre de joueurs connectés chaque mois
 | Fortnite  | 364 501 169   | 
 | Overwatch |   7 201 455   |
 
+source : [ici](https://kumundra.com/combien-de-joueurs-actifs-compte-valorant/ "Source des statitiques")
 ### Agents 
 Comme nous l'avons vu **precedemment**, Chaque **joueur** incarne un **personnage**(Agent) avec un **rôle** et des **capacités** spécifiques, voici donc une **liste** de tous les **agents** a ce jour, avec leur **rôles** :
 Il y a 4 rôles d'Agents dans valorant : 
@@ -149,4 +150,4 @@ Il existe 6 différents Sentinelles sur Valorant :
 
 
 
-source : [ici](https://kumundra.com/combien-de-joueurs-actifs-compte-valorant/ "Source des statitiques")
+
