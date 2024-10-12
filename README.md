@@ -31,11 +31,11 @@ Voici les statistiques du nombre de joueurs connectés chaque mois
 
 source : [ici](https://kumundra.com/combien-de-joueurs-actifs-compte-valorant/ "Source des statitiques")
 ### Agents 
-Comme nous l'avons vu **precedemment**, Chaque **joueur** incarne un **personnage**(Agent) avec un **rôle** et des **capacités** spécifiques, voici donc une **liste** de tous les **agents** a ce jour, avec leur **rôles** :
+Comme nous l'avons vu **précédemment**, Chaque **joueur** incarne un **personnage**(Agent) avec un **rôle** et des **capacités** spécifiques, voici donc une **liste** de tous les **agents** a ce jour, avec leur **rôles** :
 Il y a 4 rôles d'Agents dans valorant : 
 
 #### 1- Les Duelistes
-Le **dueliste** est rôle qui necessite de **prendre des risques** afin de permettre a l'équipe de **prendre le contrôle** d'un site ou de **renverser une situation**.
+Le **dueliste** est rôle qui necessite de **prendre des risques** en engageant les combats afin de permettre à l'équipe de **prendre le contrôle** d'un site ou de **renverser une situation**.
 Il existe 7 différents duelistes sur valorant :
 
  1. Jett
@@ -71,7 +71,7 @@ Il existe 7 différents duelistes sur valorant :
 
 
 #### 2- Les initiateurs
-**L'initiateu**r est un rôle qui sert a **débusquer** et **révéler** la position des ennemis, ce qui est tres utile pour savoir d'avance si il y a du monde sur un **site**, ou pour savoir a **quel site** les **attaquants** vont aller.
+**L'initiateur** est un rôle qui sert à **débusquer** et **révéler** la position des ennemis, ce qui est très utile pour savoir d'avance si il y a du monde sur un **site**, ou pour savoir à **quel site** les **attaquants** vont aller.
 Il existe 6 différents Initiateurs sur Valorant :
 1. Breach
 
@@ -126,7 +126,7 @@ Il existe 6 différents Contrôleurs sur Valorant :
     <img src="https://static.valorantstats.xyz/agent-headshots/clove-headshot.png" height="50" /> 
 
 #### 4- Les Sentinelles
-La **sentinelle** est un rôle un peu moins a l'attaque qui sert généralement a **garder le contrôle** sur un **site** si en **défense**, et a **surveiller** les arrières en attaque.
+La **sentinelle** est un rôle un peu moins à l'attaque qui sert généralement à **garder le contrôle** sur un **site** si en **défense**, et à **surveiller** les arrières en attaque.
 Il existe 6 différents Sentinelles sur Valorant :
 
 1. Chamber
