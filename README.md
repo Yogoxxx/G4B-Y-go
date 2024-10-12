@@ -40,8 +40,9 @@ Il existe 7 différents duelistes sur valorant :
 
  1. Jett
 
-    <img src="https://static.valorantstats.xyz/agent-headshots/jett-headshot.png" height="50" /> 
-    
+    <img src="https://static.valorantstats.xyz/agent-headshots/jett-headshot.png" height="50" />
+
+
  2. Iso
 
     <img src="https://static.valorantstats.xyz/agent-headshots/iso-headshot.png" height="50" /> 
