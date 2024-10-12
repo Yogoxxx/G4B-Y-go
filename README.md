@@ -33,5 +33,38 @@ Voici les statistiques du nombre de joueurs connectés chaque mois
 Comme nous l'avons vu **precedemment**, Chaque **joueur** incarne un **personnage**(Agent) avec un **rôle** et des **capacités** spécifiques, voici donc une **liste** de tous les **agents** a ce jour, avec leur **rôles** :
 Il y a 4 rôles d'Agents dans valorant : 
 #### 1- Les Duelistes
+Il existe 7 différents duelistes sur valorant :
+ * Jett
+ * Iso
+ * Phoenix
+ * Reyna
+ * Neon
+ * Raze
+ * Yoru
+#### 2- Les initiateurs
+Il existe 6 différents Initiateurs sur Valorant :
+ * Breach
+ * Fade
+ * KAY/O
+ * Skye
+ * Sova
+ * Gekko
+#### 3- Les Contrôleurs
+Il existe 6 différents Contrôleurs sur Valorant :
+ * Astra
+ * Brimstone
+ * Harbor
+ * Omen
+ * Viper
+ * Clove
+#### 4- Les Sentinelles
+Il existe 6 différents Sentinelles sur Valorant :
+ * Chamber
+ * Cypher
+ * Killjoy
+ * Sage
+ * Deadlock
+ * Vyze
+
 
 source : [ici](https://kumundra.com/combien-de-joueurs-actifs-compte-valorant/ "Source des statitiques")
