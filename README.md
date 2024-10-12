@@ -144,9 +144,9 @@ Il existe 6 différents Sentinelles sur Valorant :
 
     <img src="https://static.valorantstats.xyz/agent-headshots/deadlock-headshot.png" height="50" /> 
 
-6. Vyze
+6. Vyse
 
-    <img src="https://static.valorantstats.xyz/agent-headshots/vyze-headshot.png" height="50" /> 
+    <img src="https://static.valorantstats.xyz/agent-headshots/vyse-headshot.png" height="50" /> 
 
 
 
