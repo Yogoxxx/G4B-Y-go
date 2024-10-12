@@ -29,6 +29,8 @@ Voici les statistiques du nombre de joueurs connectés chaque mois
 | Fortnite  | 364 501 169   | 
 | Overwatch |   7 201 455   |
 
+### Agents 
+Comme nous l'avons vu **precedemment**, Chaque **joueur** incarne un **personnage**(Agent) avec un **rôle** et des **capacités** spécifiques, voici donc une **liste** de tous les **agents** a ce jour, avec leur **rôles** :
 
 
-source : [ici](https://kumundra.com/combien-de-joueurs-actifs-compte-valorant/)
+source : [ici](https://kumundra.com/combien-de-joueurs-actifs-compte-valorant/ "Source des statitiques")
