@@ -153,7 +153,7 @@ Il existe 6 différents Sentinelles sur Valorant :
     <img src="https://static.valorantstats.xyz/agent-headshots/vyse-headshot.png" height="50" /> 
 
 
-Les images des personnages viennent d'ici :
+Les images des agents viennent d'ici :
 
 ```https://static.valorantstats.xyz/agent-headshots/'Nom de l'agent en minuscule'-headshot.png ```
 
