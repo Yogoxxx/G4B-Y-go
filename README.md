@@ -158,3 +158,16 @@ Les images des agents viennent d'ici :
 
 ```https://static.valorantstats.xyz/agent-headshots/'Nom de l'agent en minuscule'-headshot.png ```
 
+
+## Ce que Valorant a en commun avec Counter strike 
+
+- [ ] Des devs à l'écoute
+- [x] Beaucoup de skins 
+- [ ] un marché économique stable
+- [x] De l'e-sport
+- [ ] Un avenir stable dans l'industrie du jeu-vidéo
+- [x] Des joueurs qui detestent le jeu auquel ils jouent
+
+
+
+
